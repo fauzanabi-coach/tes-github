@@ -66,5 +66,9 @@ plt.show()
 
 print('\n')
 print("Grafik telah berhasil dibuat dan ditampilkan.")
+<<<<<<< HEAD
 print ("oky done")
 print ()
+=======
+print ("oky done")
+>>>>>>> 3d82fd81e980c730c25da9101a080fb3461f1e58
