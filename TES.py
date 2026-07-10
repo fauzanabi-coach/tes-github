@@ -66,7 +66,3 @@ plt.show()
 
 print('\n')
 print("Grafik telah berhasil dibuat dan ditampilkan.")
-print ("oky done")
-print ("SUDAH DI FIX YAH :V")
-print ("infokan nanti malam")
-print ("DAYYUMMM")
