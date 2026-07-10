@@ -66,3 +66,4 @@ plt.show()
 
 print('\n')
 print("Grafik telah berhasil dibuat dan ditampilkan.")
+print ('BFF')
