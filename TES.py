@@ -65,16 +65,3 @@ plt.grid(True, linestyle="--", alpha=0.5)
 plt.show()
 
 print('\n')
-print("Grafik telah berhasil dibuat dan ditampilkan.")
-print ('BFF')
-for i in range(5):
-    print("BFF ke-", i+1)
-while True:
-    user_input = input("Apakah Anda ingin keluar dari program? (ya/tidak): ").strip().lower()
-    if user_input == "ya":
-        print("Terima kasih telah menggunakan program ini. Sampai jumpa!")
-        break
-    elif user_input == "tidak":
-        print("Program akan tetap berjalan. Silakan lanjutkan.")
-    else:
-        print("Input tidak valid. Silakan masukkan 'ya' atau 'tidak'.")
