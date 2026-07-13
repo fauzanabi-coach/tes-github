@@ -65,3 +65,4 @@ plt.grid(True, linestyle="--", alpha=0.5)
 plt.show()
 
 print('\n')
+berhasil = "Grafik berhasil dibuat dan ditampilkan."
